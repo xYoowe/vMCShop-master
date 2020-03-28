@@ -1,3 +1,5 @@
+### Ta wersja nie jest już wspierana!
+
 Wersja: **1.6.4**
 
 ### Ogłoszenia
